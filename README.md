@@ -21,7 +21,15 @@ A Man of Talents Tries to Use It**⌚
   <br>
   <br>
  
-## My Blogs
-<a href="https://mobile.twitter.com/_lucasmelo1" target="blank" >
-    <img align="left" src=""
+## My Blog
+<a href="https://medium.com/@lucas-melo" target="blank" >
+    <img align="left" src="https://img.shields.io/badge/-Medium-black?logo=medium&style=for-the-badgelogo&Color=white" height ="32px"
   </a>
+  
+  <br>
+  
+  <br>
+   <br>
+   <br>
+  
+<a><img align="right" img src="https://img.shields.io/github/followers/Lucas-Melo-A-S?label=Followers&style=social"></a> 

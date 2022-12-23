@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Data Science projects
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="linkedin.com/in/lucasmelo-silva" target="blank" >
+<a href="https://www.linkedin.com/in/lucasmelo-silva/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <a href="https://mobile.twitter.com/_lucasmelo1" target="blank" >

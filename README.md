@@ -1,13 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=29&multiline=true&width=700&lines=Welcome+To+Lucas+Melo's+GitHub+Profile)](https://git.io/typing-svg)
 
 
-## I'm Data Science Enthusiast  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="30px">
-> **Ordinary People Merely Think How they Spend Their Time,**
-> <br>
-> **A Man of Talents Tries to Use It**
+## I'm Data Science <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="30px">
 
-- 🌱 I’m currently learning Data Science, Machine Leaning, SQL, Power BI
-- 🔭 I’m currently working on Data Science projects
+
+- 🌱 Data professional focused on Python, SQL, Spark and data pipelines, with hands-on experience in Lakehouse architecture, Databricks and analytical data products.
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/lucasmelo-silva/" target="blank" >
